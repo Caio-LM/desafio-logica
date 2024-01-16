@@ -1,6 +1,6 @@
 // Desafio Classificador de nível do Heroi"
 
-var xp = 4500
+var xp = 8500
 var nickname = "Cleiton Rasta"
 
 switch (true) {
